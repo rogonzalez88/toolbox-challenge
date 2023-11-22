@@ -1,0 +1,31 @@
+{
+  "name": "toolbox-api-challenge",
+  "version": "1.0.0",
+  "description": "Api para el challenge de toolbox",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard && mocha"
+  },
+  "engines": {
+    "npm": "6.14.18",
+    "node": "14.21.3"
+  },
+  "author": "Roberto Gonzalez Valero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0",
+    "standard": "^17.1.0"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  }
+}

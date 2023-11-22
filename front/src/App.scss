@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+#app {
+  nav {
+    background-color: #ff6666 !important;
+    color: #fff;
+    margin-bottom: 10px;
+    .navbar-brand {
+      color: #fff;
+    }
+  }
+  thead {
+    border-bottom: 2px solid #000;
+  }
+}
