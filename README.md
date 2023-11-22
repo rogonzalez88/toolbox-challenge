@@ -72,7 +72,7 @@ El front fue realizado con una pagina bastante simple, para mostrar lo obtenido 
 ## Ejecución
 Se debera de contar con Node16, como pre-requisitos solicitamos NVM para un correcto funcionamiento y desde el folder denominado front, se debera ejecutar lo siguientes comandos:
 
-### Instalar y usar version de Node 14
+### Instalar y usar version de Node 16
 ```bash
 nvm install 16 && nvm use 16
 ```
